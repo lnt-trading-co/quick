@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(rgb(4, 0, 255), rgb(227, 11, 255));
+    color: rgb(0, 0, 0);
+    font-family: 'Indie Flower', cursive;
+font-family: 'Play', sans-serif;
+    font-size: 24px;
+}
+h2{
+    color: navy;
+    background-color: palegoldenrod;
+    width: fit-content;
+    font-size: 26px;
+    padding: 8px;
+    border-radius: 10px;
+    font-family: 'Indie Flower', cursive;
+}
+#score_css{
+     margin-right: 1300;
+}
